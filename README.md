@@ -16,7 +16,7 @@
   
 :man_technologist: About Me :
   
-I am a Full Stack Data Engineer from Chile.
+My name is Dusan Radic. I am a Full Stack Data Engineer from Chile.
  
 - :telescope: I’m working as a Data Engineer.
 
