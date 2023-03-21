@@ -18,7 +18,7 @@
   
 My name is Dusan Radic. I am an Electrical Engineer from Chile.
  
-- :telescope: I’m working as a Data Engineer.
+- :telescope: I’m working as a Full-Stack Engineer.
 
 - :seedling: Studying cloud and electronics.
 
