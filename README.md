@@ -17,8 +17,6 @@ My name is Dusan Radic. I am an Electrical Engineer from Chile.
 - :telescope: I’m working as a Full-Stack Engineer.
 
 - :seedling: Studying AI and Cybersecurity.
-
-- :mailbox: How to reach me: sdradic95@gmail.com
  
 <div/>
 
