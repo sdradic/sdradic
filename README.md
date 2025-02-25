@@ -25,7 +25,8 @@ My name is **Srdjan Radic**, an **Electrical Engineer** from **Chile**, currentl
 
 🔧 **Side Projects**:  
 - Memory management experiments in **C vs. Rust**.  
-- Low-level optimizations for **embedded systems**.  
+- Low-level optimizations for **embedded systems**.
+- 💳 Expense Tracker – A full-stack web application designed for real-time budgeting, seamless expense logging, and smart financial insights.
 
 ---
 
