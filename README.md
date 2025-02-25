@@ -1,39 +1,57 @@
 <div id="badges" align="center">
   <h1>
-    hi there!
+    <span style="font-size: 1.5em;">Hey there! 🌍</span>  
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-    <a align="center" href="https://www.linkedin.com/in/sr-adic/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-<div/>
- 
-<div id="about" align="left">
-  
-:man_technologist: About Me :
-  
-My name is Dusan Radic. I am an Electrical Engineer from Chile.
- 
-- :telescope: I’m working as a Full-Stack Engineer.
-
-- :seedling: Studying AI and Cybersecurity.
- 
-<div/>
-
-<div id="tools" align="left">
-  
-:hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <p>
+    <i>Turning ⚡ electrons into efficient code, one byte at a time.</i>
+  </p>
 </div>
- 
-<div/>
+
+---
+
+### 👨‍💻 About Me:
+
+My name is **Srdjan Radic**, an **Electrical Engineer** from **Chile**, currently working as a **Software Engineer** with a background in **cloud computing, AI, and data engineering**.  
+
+🔍 **What I do**:  
+- Architecting and developing scalable web applications.  
+- Working with **AWS, Python, and TypeScript** to build data-driven solutions.  
+- Automating infrastructure and optimizing performance.  
+
+🚀 **What I'm learning**:  
+- **Embedded Systems**: Exploring **C and Rust** to develop robust, memory-safe firmware.  
+- **Cybersecurity**: Strengthening software resilience against vulnerabilities.
+
+🔧 **Side Projects**:  
+- Memory management experiments in **C vs. Rust**.  
+- Low-level optimizations for **embedded systems**.  
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+<table align="center">
+  <tr>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/><br/>C</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><br/>Python</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/><br/>AWS</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/><br/>Docker</td>
+  </tr>
+  <tr>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/><br/>Rust</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/><br/>JavaScript</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/><br/>PostgreSQL</td>
+    <td align="center" width="100px"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><br/>Git</td>
+  </tr>
+</table>
+
+---
+
+### 📫 How to reach me:
+📩 **Email**: sdradic95@gmail.com  
+💼 **LinkedIn**: [sr-adic](https://www.linkedin.com/in/sr-adic/)  
+
+---
+
+⚡ *"From cloud to hardware—bridging the gap one byte at a time."* 🚀
